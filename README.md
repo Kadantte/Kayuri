@@ -52,7 +52,7 @@ https://www.virustotal.com/gui/file/a12680c29712479e2c90a16ad234b4d15741f09289a1
 * Watch Progress
 * Add To Favourites
 * Auto Quality for Video Playback
-* Ads Free Video Placback
+* Ads Free Video Playback
 * Directly skip to next/previous episode from player.
 * Dark Mode Support with system
 
