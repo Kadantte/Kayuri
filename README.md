@@ -9,10 +9,29 @@ This is a Fork Of Anime X Stream which was abondoned but continued here</h4>
 <a href="https://github.com/Killerpac/AnimeXStream-Re" alt="Build Status"><img src="https://img.shields.io/badge/build-passing-green.svg?style=for-the-badge&color=green"></a>
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/killerpac/Kayuri/total?style=for-the-badge">
 </p>
+<p align="center"><a href="https://discord.gg/h9BCZKTbBs"><img src="https://invidget.switchblade.xyz/h9BCZKTbBs"></a></p>
+<h3 align="center">**🥳:  Let's Get the Server To 1k !** 🥰:</h4>
+<h2 align="center">** 🏅: New Release Sneek Peeks and Memes Awaits  !** 🍭:</h2>
 <hr>
-<b>WARNING: THIS IS A BETA VERSION of application, THEREFORE YOU MAY ENCOUNTER BUGS. You can OPEN the ISSUE on GITHUB REPOSITORY.</b>
 
-<b><br>Do not PUT Kayuri OR ANY FORK OF IT INTO GOOGLE PLAYSTORE or Any other Store. It may VIOLATE THEIR TERMS AND CONDITIONS or you may encounter legal obligations.</b>
+## Screenshots
+[<img src="meta/android/Screenshot_2022-07-09-23-59-39-86_0fe048591332d0c2eaceaca804083d38.jpg" width=160>](meta/android/Screenshot_2022-07-09-23-59-39-86_0fe048591332d0c2eaceaca804083d38.jpg)
+[<img src="meta/android/Screenshot_2022-07-09-23-43-45-86_0fe048591332d0c2eaceaca804083d38.jpg" width=160>](meta/android/screenshots/Screenshot_2022-07-09-23-43-45-86_0fe048591332d0c2eaceaca804083d38.jpg)
+[<img src="meta/android/Screenshot_2022-07-09-23-44-28-90_0fe048591332d0c2eaceaca804083d38.jpg" width=160>](meta/android/Screenshot_2022-07-09-23-44-28-90_0fe048591332d0c2eaceaca804083d38.jpg)
+[<img src="meta/android/Screenshot_2022-07-09-23-44-57-66_0fe048591332d0c2eaceaca804083d38.jpg" width=160>](meta/android/Screenshot_2022-07-09-23-44-57-66_0fe048591332d0c2eaceaca804083d38.jpg)
+[<img src="meta/android/Screenshot_2022-07-09-23-45-02-23_0fe048591332d0c2eaceaca804083d38.jpg" width=160>](meta/android/Screenshot_2022-07-09-23-45-02-23_0fe048591332d0c2eaceaca804083d38.jpg)
+[<img src="meta/android/Screenshot_2022-07-09-23-59-27-54_0fe048591332d0c2eaceaca804083d38.jpg" width=160>](meta/android/Screenshot_2022-07-09-23-59-27-54_0fe048591332d0c2eaceaca804083d38.jpg)
+[<img src="meta/android/Screenshot_2022-07-09-23-59-17-12_0fe048591332d0c2eaceaca804083d38.jpg" width=405>](meta/android/Screenshot_2022-07-09-23-59-17-12_0fe048591332d0c2eaceaca804083d38.jpg)
+[<img src="meta/android/Screenshot_2022-07-09-23-44-44-75_0fe048591332d0c2eaceaca804083d38.jpg" width=405>](meta/android/Screenshot_2022-07-09-23-44-44-75_0fe048591332d0c2eaceaca804083d38.jpg)
+
+
+<b>WARNING: THIS IS A BETA VERSION of application, THEREFORE YOU MAY ENCOUNTER BUGS. You can OPEN the ISSUE on GITHUB REPOSITORY.</b>
+<p></p>
+<br>
+
+> Please do not attempt to upload Kayuri or any of it's forks on Playstore or any other Android appstores on the internet. Doing so, may infringe their terms and conditions. This may result to legal action or immediate take-down of the app.
+
+<br>
 
 <h3 align="center">**Star :star:  this repo to show your support and it really does matter!** :clap:</h4>
 
@@ -24,7 +43,7 @@ Kayuri parses website data and filter required info, thus It removes the ads for
 
 https://www.virustotal.com/gui/file/a12680c29712479e2c90a16ad234b4d15741f09289a17b916382c06109666bbf/summary
 
-### Features
+## Features
 
 * Search Anime
 * Recently Added Episodes
@@ -33,16 +52,16 @@ https://www.virustotal.com/gui/file/a12680c29712479e2c90a16ad234b4d15741f09289a1
 * Watch Progress
 * Add To Favourites
 * Auto Quality for Video Playback
-* Ads Free Video Placback
+* Ads Free Video Playback
 * Directly skip to next/previous episode from player.
 * Dark Mode Support with system
 
-### Coming Features
+## Coming Features
 
 * Online syncing of Favourite list & watched progress (Will require Login)
 * … and many more
 
-### Technologies used
+## Technologies used
 * Kotlin
 * MVVM
 * Retrofit & RxJava
@@ -51,6 +70,12 @@ https://www.virustotal.com/gui/file/a12680c29712479e2c90a16ad234b4d15741f09289a1
 * Android Architecture Components
 * Glide
 
+## Help Needed With
+
+- Download Of Anime With Hls Streams
+- Continue Watching Feature 
+- Sync
+
 ## Contribution
 Your ideas, translations, design changes, code cleaning, or real heavy code changes or any help is always welcome. The more is contribution the better it gets
 
@@ -58,7 +83,8 @@ Your ideas, translations, design changes, code cleaning, or real heavy code chan
 
 #### Known issues and limitations
 - Links For Some Old Anime Are Not Found
-- Preferred Quality not working for all Anime
+- Error Management is Not Upto the Mark
 
 ### Credits
-Anime X Stream For The Heart Of the Code 
+- Anime X Stream For The Heart Of the Code 
+- [jenlisabeth](https://github.com/jenlisabeth) Fot the Genre Feature
